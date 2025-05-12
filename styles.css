@@ -44,12 +44,14 @@ height: 400px;
 width: 1500px;
 }
 .ygide{
+    
     position: absolute;
     background-color: aliceblue;
-    height: 10px;
+    height: 5px;
     width: 1000px;
     padding: 30px 7px;
     right: 40px;
+    top: 100px;
 }
 h1{
     color: aliceblue;
@@ -60,7 +62,9 @@ h1{
 }
 .ogide{
     position: absolute;
-    background-color: rgb(5, 5, 38);
+    color: aliceblue;
+    background-color: rgb(4, 4, 88);
+    
     height: 10px;
     width: 1000px;
     padding: 30px 7px;
@@ -70,4 +74,306 @@ h1{
     position: absolute;
     background-color: rgb(59, 59, 199);
 }
+.agide{
+    position: absolute;
+    top:580px ;
+
+}
+.sgide{
+    position: absolute;
+    background-image:url(../739ae1c3734ddd323f2aa0aef6f4fdc4.jpeg); 
+    
+    height: 300px;
+    width: 200px;
+    top: 630px;
+}
+.dgide{
+    position: absolute;
+    color: aliceblue;
+    top:250px ;
+}
+.fgide{
+    position: absolute;
+     background-image:url(../a1012afffc04f2401c0cb4c7ea63c0d7.jpeg);
+    height: 300px;
+    width: 300px;
+    top: 1100px;
+
+}
+.ggide{
+    position: absolute;
+    color: aliceblue;
+    top:250px 
+}
+.hgide{
+    position: absolute;
+    background-image:url(../739ae1c3734ddd323f2aa0aef6f4fdc4.jpeg); 
+    height: 300px;
+    width: 200px;
+    top: 630px;
+    left:430px;
+}
+
+
+.jgide{
+    position: absolute;
+    background-image:url(../264297-Binz-Pier.jpeg); 
+    height: 300px;
+    width: 200px;
+    top: 630px;
+    left:640px;
+}
+.kgide{
+    position: absolute;
+    background-image:url(../a1012afffc04f2401c0cb4c7ea63c0d7.jpeg); 
+    height: 300px;
+    width: 200px;
+    top: 630px;
+    left:850px;
+
+}
+.lgide{
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    top: 630px;
+    left:1060px;
+}
+
+.xgide{
+    position: absolute;
+    
+    top:950px ;
+}
+.cgide{
+     position: absolute;
+     background-image:url(../a1012afffc04f2401c0cb4c7ea63c0d7.jpeg);
+    height: 300px;
+    width: 300px;
+    top: 1100px;
+    
+}
+.vgide{
+    font-size: larger;
+    position: absolute;
+   
+    height: 300px;
+    width: 300px;
+    top: 1400px;
+}
+.bgide{
+position: absolute;
+     background-image:url(../739ae1c3734ddd323f2aa0aef6f4fdc4.jpeg); 
+    height: 300px;
+    width: 300px;
+    top: 1100px;
+    left: 400px;
+}
+.ngide{
+    font-size: larger;
+    position: absolute;
+   
+    height: 300px;
+    width: 300px;
+    top: 1400px;
+    left:400px ;
+}
+.mgide{
+    position: absolute;
+     
+    background-image:url(../264297-Binz-Pier.jpeg); 
+    height: 300px;
+    width: 300px;
+    top: 1100px;
+    left: 750px;
+
+}
+.egqde{
+    font-size: larger;
+    position: absolute;
+   
+    height: 300px;
+    width: 300px;
+    top: 1400px;
+    left:750px ;
+}
+.egidq{
+    position: absolute;
+     
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    height: 300px;
+    width: 300px;
+    top: 1100px;
+    left: 750px;
+}
+.egidr{
+    position: absolute;
+    background-image:url(../264297-Binz-Pier.jpeg); 
+    height: 300px;
+    width: 300px;
+    top: 1100px;
+    left: 1100px
+}
+.egidt{
+    font-size: larger;
+    position: absolute;
+   
+    height: 300px;
+    width: 300px;
+    top: 1400px;
+    left:1100px ;
+}
+.egidy{
+    position: absolute;
+    background-image:url(../264297-Binz-Pier.jpeg); 
+    height: 400px;
+    width: 600px;
+    top: 1700px;
+    left:0px
+}
+.egidu{
+    position: absolute;
+    background-image:url(../739ae1c3734ddd323f2aa0aef6f4fdc4.jpeg);  
+    height: 400px;
+    width: 800px;
+    top: 1700px;
+    left:640px
+}
+.egidi{
+     position: absolute;
+ font-size: x-large;
+    height: 400px;
+    width: 600px;
+    top: 2100px;
+    left:0px
+}
+.egido{
+    position: absolute;
+ font-size: x-large;
+    height: 400px;
+    width: 600px;
+    top: 2100px;
+    left:640px
+}
+.egids{
+    position: absolute;
+ font-size: x-large;
+    height: 400px;
+    width: 600px;
+    top: 2200px;
+    
+}
+.egidp{
+    position: absolute;
+     
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    height: 300px;
+    width: 300px;
+    top: 2250px;
+    left:0px;
+}
+.egida{
+    position: absolute;
+ font-size: larger;
+    height: 400px;
+    width: 600px;
+    top: 2550px;
+    left:0px
+}
+.egidd{
+    position: absolute;
+    background-image:url(../264297-Binz-Pier.jpeg); 
+    height: 300px;
+    width: 300px;
+    top: 2250px;
+    left: 350px
+}
+.egidf{
+    position: absolute;
+ font-size: larger;
+    height: 400px;
+    width: 600px;
+    top: 2550px;
+    left:350px
+}
+.egidg{
+    position: absolute;
+
+    background-image:url(../739ae1c3734ddd323f2aa0aef6f4fdc4.jpeg);   
+    height: 300px;
+    width: 300px;
+    top: 2250px;
+    left: 690px
+}
+.egidh{
+     position: absolute;
+ font-size: larger;
+    height: 400px;
+    width: 600px;
+    top: 2550px;
+    left:690px
+}
+
+.egidj{
+    position: absolute;
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    height: 300px;
+    width: 300px;
+    top: 2250px;
+    left: 1100px 
+}
+.egidk{
+     position: absolute;
+ font-size: larger;
+    height: 400px;
+    width: 600px;
+    top: 2550px;
+    left:1100px
+}
+.egidl{
+     position: absolute;
+ font-size: larger;
+    height: 400px;
+    width: 600px;
+    top: 2800px;
+    left:0px
+}
+h6{
+    font-size:xx-large;
+}
+.egidz{
+    position: absolute;
+
+    background-image:url(../739ae1c3734ddd323f2aa0aef6f4fdc4.jpeg);   
+    height: 300px;
+    width: 300px;
+    top: 2850px;
+    left: 400px
+}
+.egidx{
+    position: absolute;
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    height: 300px;
+    width: 300px;
+    top: 2850px;
+    left: 765px
+}
+.egidc{
+    position: absolute;
+    background-image:url(../264297-Binz-Pier.jpeg); 
+    height: 300px;
+    width: 300px;
+    top: 2850px;
+    left: 1100px
+}
+.egidv{
+    border: 20px;
+    border-radius: 20px;
+    color: black;
+}
+
+
+
+
 
