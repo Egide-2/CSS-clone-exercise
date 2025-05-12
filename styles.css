@@ -1,0 +1,73 @@
+.qgide{
+    word-spacing: 35px;
+}
+.wgide{
+    position: absolute;
+    left: 400px;
+    top: 7px;
+}
+.rgide:hover{
+    color: blue;
+}
+.tgide{
+word-spacing: normal;
+}
+.tgide:hover{
+    color: blue;
+}
+.ygide{
+
+   border: 4px;
+   border-radius: 7px;
+    color: black;
+    
+}
+.ygide{
+    word-spacing: 100px;
+
+}
+.ygide{
+    position: absolute;
+    left: 150px;
+}
+.gide{
+    background-color: white;
+    height: 20px;
+    width:1200px
+}
+.ugide{
+    position: absolute;
+ 
+background-image:url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+
+height: 400px;
+width: 1500px;
+}
+.ygide{
+    position: absolute;
+    background-color: aliceblue;
+    height: 10px;
+    width: 1000px;
+    padding: 30px 7px;
+    right: 40px;
+}
+h1{
+    color: aliceblue;
+}
+.igide{
+    background-color: blue;
+
+}
+.ogide{
+    position: absolute;
+    background-color: rgb(5, 5, 38);
+    height: 10px;
+    width: 1000px;
+    padding: 30px 7px;
+    top: 500px;
+}
+.pgide{
+    position: absolute;
+    background-color: rgb(59, 59, 199);
+}
+
